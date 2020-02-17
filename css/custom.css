@@ -1,0 +1,54 @@
+/* Nabvar */
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+
+  .navbar-dark {
+    background-color: #F02786 !important ;
+  }
+
+  .bg-dark {
+    background-color: #F02786 !important ;
+  }
+
+  /* Home page */
+
+  .hero-home{
+    padding-top: 20px;
+  }
+
+  .hero-home p{
+    font-size: 20px;
+  }
+
+  .hero-home h2{
+    font-weight: 900;
+  }
+
+.services-section {
+  padding-top: 40px;
+}
+
+.contact-card{
+  padding-top: 40px;
+
+}
+
+.contact-card-design {
+  background-color: blueviolet;
+  color: #FFF;
+}
+  /* Custom buttons */
+
+  .btn-primary {
+    background-color: transparent;
+    color: #000;
+    text-transform: uppercase;
+  }
+
+  .btn-primary :hover {
+    background-color: #930519;
+    text-transform: uppercase;
+  }
